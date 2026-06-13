@@ -12,9 +12,7 @@ Simply run the API server using your local Python installation.
 
 ### Run the Server
 1. Navigate to the backend directory:
-   ```bash
-   cd C:\Users\user\.gemini\antigravity\scratch\tbite-api
-   ```
+   
 2. Start the API server:
    ```bash
    python app.py
